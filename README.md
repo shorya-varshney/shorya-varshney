@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shorya-varshney&label=Profile%20views&color=0e75b6&style=flat" alt="shorya-varshney" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **React.jS**
 
-- 💬 Ask me about **HTML , CSS , JavaScript , ReactJS**
+- 💬 Ask me about **HTML , CSS , JavaScript , React.jS**
 
 - 📫 How to reach me **shoryavarshney8@gmail.com**
 
